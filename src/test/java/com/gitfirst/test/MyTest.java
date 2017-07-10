@@ -10,4 +10,8 @@ public class MyTest {
 		return "val";
 	}
 
+        private String test() {
+		return "test";
+	}
+
 }
