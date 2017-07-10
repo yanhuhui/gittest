@@ -6,11 +6,11 @@ public class MyTest {
 		
 	}
 	
-	private String getVal() {
+	private String getVal() {//val
 		return "val";
 	}
 
-        private String test() {
+        private String test() {//test
 		return "test";
 	}
 
