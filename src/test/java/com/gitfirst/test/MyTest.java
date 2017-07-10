@@ -10,7 +10,7 @@ public class MyTest {
 		return "val";
 	}
 
-        private String test() {
+        private String test() {//test
 		return "test";
 	}
 
