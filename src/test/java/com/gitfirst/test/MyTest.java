@@ -6,4 +6,8 @@ public class MyTest {
 		
 	}
 
+        private String test() {
+		return "test";
+	}
+
 }
