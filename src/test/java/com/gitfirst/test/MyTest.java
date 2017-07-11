@@ -6,7 +6,7 @@ public class MyTest {
 		
 	}
 	
-	private String getVal() {//val
+	private String getVal() {//val333
 		return "val";
 	}
 
